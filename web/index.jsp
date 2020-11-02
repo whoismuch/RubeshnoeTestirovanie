@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-
+<% if (request.getParam() %>
   </body>
 </html>
